@@ -1,6 +1,5 @@
 # Overview
-This project implements the **Abstract factory Design Pattern** in TypeScript to create character objects with various customizable attributes.The project makes it simple to create and configure characters using attributes such as **eyes** ,**hair**,**beard** etc .It includes a **Director** that provides pre-built character builds like Warrior, 
-Mage, and Elf.
+This project implements the **Factory Method Design Pattern** in TypeScript to simulate combat. After a move is picked the characters main health is incremented by the damage of the move the program would pick. The project makes it simple to create and configure new moves without altering existing structure.
 
 ### Technologies used
 *Typescript*  and *Node JS*
