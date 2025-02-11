@@ -1,5 +1,5 @@
 # Overview
-This project implements the **Factory Method Design Pattern** and **Mediator Patern** in TypeScript to simulate combat. After a move is picked the characters main health is incremented by the damage of the move the program would pick. The project makes it simple to create and configure new moves without altering existing structure.
+This project implements the **Factory Method Design Pattern** in TypeScript to simulate combat. After a move is picked the characters main health is incremented by the damage of the move the program would pick. The project makes it simple to create and configure new moves without altering existing structure.
 
 ### Technologies used
 *Typescript*  and *Node JS*
